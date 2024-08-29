@@ -1,1 +1,2 @@
 # 29/08/24 - TennisRankingsTable (#20)
+This is an incomplete and unstyled basic version of a table that lists all the ATP ranked mens tennis players by rank. I will probably make a fork of this tomorrow and complete the app. I might even make multiple versions of this app each with their own theme e.g. simple, playful, elegant, brutalist. Another option is to start doing multiday long projects as I make more complex projects.

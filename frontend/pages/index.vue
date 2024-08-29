@@ -1,5 +1,6 @@
 <template>
-  <h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <div>
+    <!-- <font-awesome :icon="['fas', 'medal']" /> -->
+    <AppTable />
+  </div>
 </template>
